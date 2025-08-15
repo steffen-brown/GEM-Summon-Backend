@@ -4,6 +4,9 @@
 
 Flask-based API for the **GEM Summoner** project, serving as the bridge between the web frontend and the vehicle’s ROS-based control system. It manages live GPS locations, summon targets, and vehicle status updates.
 
+## Contribution
+This project was fully authored and developed by Steffen Brown, including all code implementation, experimentation, and documentation.
+
 ## Features
 - **Authentication** via a simple token-based system  
 - **Phone location tracking** for summon target  
